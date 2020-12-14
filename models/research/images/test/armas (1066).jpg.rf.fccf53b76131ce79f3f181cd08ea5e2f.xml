@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>armas (1066).jpg.rf.fccf53b76131ce79f3f181cd08ea5e2f.jpg</filename>
+	<path>armas (1066).jpg.rf.fccf53b76131ce79f3f181cd08ea5e2f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>82</xmin>
+			<xmax>226</xmax>
+			<ymin>163</ymin>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>
